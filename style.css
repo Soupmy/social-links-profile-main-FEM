@@ -45,10 +45,11 @@ body {
     margin: auto;
 }
 
+
 .name {
     color: white;
     font-weight: 700;
-    font-size: 23px;
+    font-size: 24px;
     text-align: center;
     margin: 20px auto 8px auto;
     width: 100%;
@@ -62,7 +63,7 @@ body {
     margin: auto;
 }
 
-.profile p{
+.quote {
     color: white;
     font-size: 14px;
     text-align: center;
